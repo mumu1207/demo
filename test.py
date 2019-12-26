@@ -1,2 +1,1 @@
-
-import os
+print('测试链接我的github成功')
